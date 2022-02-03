@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="RUBY_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$" />
+    <orderEntry type="jdk" jdkName="RVM: ruby-2.6.5" jdkType="RUBY_SDK" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" scope="PROVIDED" name="bundler (v2.1.0, RVM: ruby-2.6.5) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="cool.io (v1.7.1, RVM: ruby-2.6.5) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="fluentd (v1.14.3, RVM: ruby-2.6.5) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="http_parser.rb (v0.8.0, RVM: ruby-2.6.5) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="msgpack (v1.4.2, RVM: ruby-2.6.5) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="serverengine (v2.2.4, RVM: ruby-2.6.5) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="sigdump (v0.2.4, RVM: ruby-2.6.5) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="strptime (v0.2.5, RVM: ruby-2.6.5) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="thread_safe (v0.3.6, RVM: ruby-2.6.5) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="tzinfo (v1.2.9, RVM: ruby-2.6.5) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="tzinfo-data (v1.2021.5, RVM: ruby-2.6.5) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="webrick (v1.7.0, RVM: ruby-2.6.5) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="yajl-ruby (v1.4.1, RVM: ruby-2.6.5) [gem]" level="application" />
+  </component>
+</module>
